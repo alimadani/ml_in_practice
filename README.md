@@ -1,1 +1,3 @@
 # ml_in_practice
+
+This repository is dedicated to the codes and data that have been (or will be) part of LinkedIn post series "#machinelearning in practice" that you can find me in my LinkedIn profile. Each post is about implementation of one (or more) machine learning methods on a dataset as well as assessing performance of the model quantitatively and/or visualising the results. The code will also include the information about the datasets, summary of the #machinelearning method as well as mathematical details of the performance measures. You can find codes and data of all of the posts in this repository.
